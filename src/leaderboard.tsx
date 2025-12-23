@@ -221,8 +221,8 @@ const LeaderboardDashboard = () => {
           </div>
           <p className="text-slate-600 mb-3">Top users by points earned</p>
           <div className="text-sm text-slate-600 space-y-2 max-w-3xl">
-            <p>Points are awarded for investing in the LTV Protocol's first production vault — the wstETH (Lido) ↔ ETH Vault.</p>
-            <p>LTV leverage token holders earn points depending on the deposit amount and duration.</p>
+            <p>Points are awarded for participating in the LTV Protocol's first production vault — the wstETH (Lido) ↔ ETH Vault.</p>
+            <p>LTV leverage token holders earn points depending on the position size and duration.</p>
             <p className="font-medium">42 NFT holders receive a 42% points boost.</p>
           </div>
         </div>
