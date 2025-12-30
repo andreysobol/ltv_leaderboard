@@ -6,8 +6,6 @@ Real-time points competition leaderboard for LTV Protocol leverage token holders
 
 A leaderboard dashboard displaying user rankings, badges, and achievements for participants in the LTV Protocol's first production vault — the wstETH (Lido) ↔ ETH Vault. Points are awarded based on position size and duration, with NFT holders receiving a 42% points boost.
 
-```
-
 ## Development
 
 Run the development server:
